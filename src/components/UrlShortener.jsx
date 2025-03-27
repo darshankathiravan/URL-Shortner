@@ -27,7 +27,7 @@ const UrlShortener = () => {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': `Bearer edd34b0cfcbd523d8e883f9a3df210d5d6b096a6`,
+          'Authorization': `Bearer your_token`,
         },
         body: JSON.stringify({
           long_url: originalUrl,
