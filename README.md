@@ -10,7 +10,7 @@ This is a simple and efficient **URL shortener** built using **Next.js** and the
 
 ## 🛠️ Tech Stack
 
-- **Next.js** – React framework for server-side rendering and static site generation.
+- **React Vite** – React framework for server-side rendering and static site generation.
 - **Tailwind CSS** – Utility-first CSS framework for styling.
 - **Bitly API** – For shortening URLs and retrieving analytics.
 
